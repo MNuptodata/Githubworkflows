@@ -1,0 +1,5 @@
+name: 02 - Workflow Events
+on: push
+
+jobs:
+  first-job:
